@@ -1,3 +1,0 @@
-new index oluşturuldu
-index ana branch'te eklenmedi (kurallar çalışıyor)
-yeni branch üzerinden projeye ekleme yapmaya çalışacağım.
