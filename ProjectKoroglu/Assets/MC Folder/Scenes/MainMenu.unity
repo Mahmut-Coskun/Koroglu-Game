@@ -9283,7 +9283,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Kolay Mod \nD\xFC\u015Fman can\u0131:100 \nPUAN:70"
+  m_text: "Orta Mod \nD\xFC\u015Fman can\u0131:100 \nPUAN:70"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
@@ -9941,7 +9941,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &923712879
 RectTransform:
   m_ObjectHideFlags: 0
@@ -19755,7 +19755,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Kolay Mod \nD\xFC\u015Fman can\u0131:200 \nPUAN:100"
+  m_text: "Zor Mod \nD\xFC\u015Fman can\u0131:200 \nPUAN:100"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
