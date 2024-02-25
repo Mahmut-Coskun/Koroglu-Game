@@ -4363,6 +4363,7 @@ MonoBehaviour:
   dashForce: 5
   dashDuration: 1
   amDead: 0
+  particleSystem: {fileID: 8315523422825646731, guid: 2b28a63a64484be4c8a28af4d66df3a6, type: 3}
   audioPlayer: {fileID: 1431979249}
   DeathMessage: {fileID: 1763112949}
   currentHealth: 100
