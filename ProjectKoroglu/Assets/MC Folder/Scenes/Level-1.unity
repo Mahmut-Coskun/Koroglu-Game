@@ -2677,6 +2677,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 649215006}
+  First_Level_Score: {fileID: 0}
+  Second_Level_Score: {fileID: 0}
+  Third_Level_Score: {fileID: 0}
   levelLockManager: {fileID: 1517335146}
   levelScores: 
   currentLevel: 0
@@ -8795,7 +8798,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Level-1
+  m_text: "B\xF6l\xFCm - 1"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
