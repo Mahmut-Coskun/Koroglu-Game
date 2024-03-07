@@ -232,7 +232,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Score
+  m_text: Skor
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
@@ -1734,7 +1734,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Levels
+  m_text: "B\xF6l\xFCmler"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
@@ -2529,7 +2529,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Options '
+  m_text: "Se\xE7enekler"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
@@ -2556,8 +2556,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 50
+  m_fontSize: 45
+  m_fontSizeBase: 45
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4397,7 +4397,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Levels
+  m_text: Seviyeler
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10484,7 +10484,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: End
+  m_text: Son
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
@@ -13552,9 +13552,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Leveller
-
-'
+  m_text: "B\xF6l\xFCmler"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
@@ -15162,7 +15160,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Score
+  m_text: Skor
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
@@ -15296,7 +15294,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Level Hardness
+  m_text: Zorluk
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
@@ -16686,7 +16684,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Hardness
+  m_text: Zorluk
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
@@ -19188,7 +19186,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sound
+  m_text: Ses
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
   m_sharedMaterial: {fileID: -3570645819660463817, guid: 8006ebf100d5f1848bcfb66e3048a2bb, type: 2}
