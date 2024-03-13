@@ -961,7 +961,7 @@ GameObject:
   - component: {fileID: 134978788}
   m_Layer: 0
   m_Name: env_ground_17 (9)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1272,7 +1272,7 @@ GameObject:
   - component: {fileID: 166076422}
   m_Layer: 0
   m_Name: env_ground_17 (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3221,7 +3221,7 @@ GameObject:
   - component: {fileID: 407463089}
   m_Layer: 0
   m_Name: env_ground_17 (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3811,7 +3811,7 @@ GameObject:
   - component: {fileID: 464137764}
   m_Layer: 0
   m_Name: env_ground_17 (11)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4158,7 +4158,7 @@ GameObject:
   - component: {fileID: 495708992}
   m_Layer: 0
   m_Name: env_ground_17
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4492,7 +4492,7 @@ GameObject:
   - component: {fileID: 508711521}
   m_Layer: 0
   m_Name: env_ground_17 (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5055,7 +5055,7 @@ GameObject:
   - component: {fileID: 561601819}
   m_Layer: 0
   m_Name: env_ground_17 (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6059,6 +6059,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2333662003255854117, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+      propertyPath: enemyAnimator
+      value: 
+      objectReference: {fileID: 659463829}
     - target: {fileID: 5786992173896489200, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
       propertyPath: m_LocalScale.x
       value: -3
@@ -6120,6 +6124,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+--- !u!95 &659463829 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1996895622086864933, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+  m_PrefabInstance: {fileID: 659463828}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &682063601
 GameObject:
   m_ObjectHideFlags: 0
@@ -7260,6 +7269,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2333662003255854117, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+      propertyPath: enemyAnimator
+      value: 
+      objectReference: {fileID: 782415496}
     - target: {fileID: 5786992173896489200, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
       propertyPath: m_LocalScale.x
       value: -3
@@ -7321,6 +7334,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+--- !u!95 &782415496 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1996895622086864933, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+  m_PrefabInstance: {fileID: 782415495}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &783426789
 GameObject:
   m_ObjectHideFlags: 0
@@ -8698,6 +8716,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2333662003255854117, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+      propertyPath: enemyAnimator
+      value: 
+      objectReference: {fileID: 987509687}
     - target: {fileID: 5786992173896489200, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
       propertyPath: m_LocalScale.x
       value: -3
@@ -8759,6 +8781,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+--- !u!95 &987509687 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1996895622086864933, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+  m_PrefabInstance: {fileID: 987509686}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1011520169
 GameObject:
   m_ObjectHideFlags: 0
@@ -9752,7 +9779,7 @@ GameObject:
   - component: {fileID: 1151672154}
   m_Layer: 0
   m_Name: env_ground_17 (13)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10334,7 +10361,7 @@ GameObject:
   - component: {fileID: 1250242725}
   m_Layer: 0
   m_Name: env_ground_17 (12)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11053,7 +11080,7 @@ GameObject:
   - component: {fileID: 1290868682}
   m_Layer: 0
   m_Name: env_ground_17 (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12149,6 +12176,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2333662003255854117, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+      propertyPath: enemyAnimator
+      value: 
+      objectReference: {fileID: 1411510807}
     - target: {fileID: 5786992173896489200, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
       propertyPath: m_LocalScale.x
       value: -3
@@ -12210,6 +12241,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+--- !u!95 &1411510807 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 1996895622086864933, guid: 2c1a76756f91f314aa9522ff797c03e9, type: 3}
+  m_PrefabInstance: {fileID: 1411510806}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1431979248
 GameObject:
   m_ObjectHideFlags: 0
@@ -12717,7 +12753,7 @@ GameObject:
   - component: {fileID: 1515798925}
   m_Layer: 0
   m_Name: env_ground_17 (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13265,7 +13301,7 @@ GameObject:
   - component: {fileID: 1600965823}
   m_Layer: 0
   m_Name: env_ground_17 (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13566,7 +13602,7 @@ GameObject:
   - component: {fileID: 1646016717}
   m_Layer: 0
   m_Name: env_ground_17 (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19076,7 +19112,7 @@ GameObject:
   - component: {fileID: 1802024298}
   m_Layer: 0
   m_Name: env_ground_17 (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
