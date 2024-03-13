@@ -21,9 +21,15 @@ public class EnemyMovement : MonoBehaviour
     private bool canLaunchProjectile = true;
 
     public float projectileSpeed = 5f;
+    public Animator enemyAnimator;
 
     // private float delayTimeOfSword = 2f; 
     // int collisionCount = 0;
+
+    private void Awake()
+    {
+        enemyAnimator = GetComponent<Animator>();
+    }
 
     void Start()
     {
@@ -46,10 +52,12 @@ public class EnemyMovement : MonoBehaviour
             if (distanceX < closeDistanceX && distanceY < 1)
             {
                 isFollowing = true;
+                enemyAnimator.SetBool("isWalking", true);
             }
             else if (isFollowing)
             {
                 isFollowing = false;
+                enemyAnimator.SetBool("isWalking", false);
             }
 
              if (isFollowing)
